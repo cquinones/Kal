@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="9" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="streets_test" tilewidth="32" tileheight="32">
+  <image source="streets_test.png" width="64" height="64"/>
+  <tile id="0">
+   <properties>
+    <property name="collidable" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="main" width="200" height="9">
+  <data encoding="base64" compression="zlib">
+   eJzt0cENACAIBEFI7L9mPzZgomaFfcz3gGNExJAkSZKkpnIxh59D2qULWufm/LHLDfnQqdm0nKr9kFS8if5/WudV7yJ1Q0b7P63zqneRutk1AVRGFZE=
+  </data>
+ </layer>
+</map>
